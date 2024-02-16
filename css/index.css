@@ -1,0 +1,14 @@
+.box
+{
+    width: 300px;
+    height: 300px;
+    font-size: bold;
+    color: brown;
+    background-color: aqua;
+    margin:100px auto;
+}
+.box p
+{
+    color: white;
+    text-align: justify;
+}
